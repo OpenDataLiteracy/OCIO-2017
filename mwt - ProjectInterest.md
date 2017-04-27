@@ -1,4 +1,4 @@
-Background & Interest 
+## Background & Interest 
 
 My undergraduate tenure at McGill University was a hybrid of agricultural studies and urban systems geography, allowing both 
 fieldwork opportunities and practical geospatial lab analysis. My capstone project introduced me to collaborative open data 
@@ -11,7 +11,7 @@ connections between familiar but abstract data management concepts I have encoun
 reliable teammate, and routinely assess my own habits for efficiency. This opportunity would exercise my known skills while 
 presenting a learning curve, expanding my horizons and connections. 
 
-Possibly Helpful Resources:
+## Possibly Helpful Resources:
 
 https://opendri.org/wp-content/uploads/2016/05/OpenDRI-Policy-Note.pdf
 Open Data for Resilience: Policy Note and Principles
@@ -28,10 +28,9 @@ CSL has already produced. This document offers advice through successes and fail
 resource when constructing instructional tools.  
 
 
-Questions:
+## Questions:
 
-In addition to WA’s Geospatial Data Management Policy, what other formal guidelines should I be familiar with?
+- In addition to WA’s Geospatial Data Management Policy, what other formal guidelines should I be familiar with?
 
-Software systems analysis is an identified weak spot in my existing skillset. Can you recommend any resources I can use to 
-familiarize myself with best practices?
+- Software systems analysis is an identified weak spot in my existing skillset. Can you recommend any resources I can use to familiarize myself with best practices?
  
